@@ -1,2 +1,2 @@
 # nannolo45.github.io
-Serve per google calendar API
+Everyday – my personal planner. Calendar data stays in my own Google account and GitHub repo.
